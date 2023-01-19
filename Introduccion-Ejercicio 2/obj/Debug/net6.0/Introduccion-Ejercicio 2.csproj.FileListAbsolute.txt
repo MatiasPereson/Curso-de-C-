@@ -1,0 +1,15 @@
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\bin\Debug\net6.0\Introduccion-Ejercicio 2.exe
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\bin\Debug\net6.0\Introduccion-Ejercicio 2.deps.json
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\bin\Debug\net6.0\Introduccion-Ejercicio 2.runtimeconfig.json
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\bin\Debug\net6.0\Introduccion-Ejercicio 2.dll
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\bin\Debug\net6.0\Introduccion-Ejercicio 2.pdb
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\Introduccion-Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\Introduccion-Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\Introduccion-Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\Introduccion-Ejercicio 2.AssemblyInfo.cs
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\Introduccion-Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\Introduccion-Ejercicio 2.dll
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\refint\Introduccion-Ejercicio 2.dll
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\Introduccion-Ejercicio 2.pdb
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\Introduccion-Ejercicio 2.genruntimeconfig.cache
+C:\Users\matias.pereson\Desktop\ejercicios open bootcamp\Curso de C#\Introduccion-Ejercicio 2\obj\Debug\net6.0\ref\Introduccion-Ejercicio 2.dll
